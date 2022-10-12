@@ -1,0 +1,35 @@
+To convert from Decimal to binary ;-
+a = 64 
+
+divide a by 2 (2 means binary)
+
+64 / 2 = 32      0   (0 means that there is no reminders)
+32 / 2 = 16      0
+16 / 2 = 8       0
+8 / 2 = 4        0
+4 / 2 = 2        0
+2 / 2 = 1        0
+1 / 2 = REMINDER 1    (1 means that there is a reminder)
+
+binary result = 1000000
+
+
+to convert Decimal into octa;-
+
+divide a by 8 (8 means octa)
+
+64 / 8 = 8   0 
+8 / 8 = 1    0
+1 / 8 = REMINDER 1 
+
+octa result = 100
+
+
+to convert Decimal into hexadecimal:-
+
+divide a by 16 (16 means heca)
+
+64 / 16 = 4  0
+4 / 16 = REMINDER 4
+
+Hexa result = 40
